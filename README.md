@@ -3,5 +3,6 @@ A compilation of various UI prototypes in a Figma Workspace for an economically 
 
 Developer Link:
 ```https://www.figma.com/design/2mPgafD4rRrXzMuAGrCAbh/Figma-Mid-fid-UI?node-id=0-1&m=dev&t=uqAuCTqR9QUdLEou-1```
+```https://www.canva.com/design/DAGM-MA7IYQ/UqDBn4F2PWBWpcDi1GdCrg/edit```
 
-Other details and files of the design are also in the repository
+Other details and files of the design are also in the repository.
